@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "見つけちゃったよ",
+  "base_artist": "K.E.I",
+  "createdAt": "2026-03-19T04:51:23.268642Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "見つけちゃったよ",
+      "artist": "K.E.I",
+      "has_synced": false,
+      "path": "select/pl_01_見つけちゃったよ_K.E.I.txt"
+    }
+  ]
+}
